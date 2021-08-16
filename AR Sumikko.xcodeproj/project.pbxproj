@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4512966B26C965CA0067453C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4512966A26C965C90067453C /* README.md */; };
 		45B687CF258FAD2900630DEB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B687CE258FAD2900630DEB /* AppDelegate.swift */; };
 		45B687D1258FAD2900630DEB /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 45B687D0258FAD2900630DEB /* art.scnassets */; };
 		45B687D3258FAD2900630DEB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B687D2258FAD2900630DEB /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4512966A26C965C90067453C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		45B687CB258FAD2900630DEB /* AR Sumikko.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AR Sumikko.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		45B687CE258FAD2900630DEB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		45B687D0258FAD2900630DEB /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		45B687CD258FAD2900630DEB /* AR Sumikko */ = {
 			isa = PBXGroup;
 			children = (
+				4512966A26C965C90067453C /* README.md */,
 				45B687CE258FAD2900630DEB /* AppDelegate.swift */,
 				45B687D0258FAD2900630DEB /* art.scnassets */,
 				45B687D2258FAD2900630DEB /* ViewController.swift */,
@@ -127,6 +130,7 @@
 			files = (
 				45B687D1258FAD2900630DEB /* art.scnassets in Resources */,
 				45B687DB258FAD2F00630DEB /* LaunchScreen.storyboard in Resources */,
+				4512966B26C965CA0067453C /* README.md in Resources */,
 				45B687D8258FAD2F00630DEB /* Assets.xcassets in Resources */,
 				45B687D6258FAD2900630DEB /* Main.storyboard in Resources */,
 			);
