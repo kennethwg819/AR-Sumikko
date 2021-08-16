@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4512966B26C965CA0067453C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4512966A26C965C90067453C /* README.md */; };
+		4512966F26C9F8F60067453C /* screenshot1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4512966E26C9F8F60067453C /* screenshot1.gif */; };
 		45B687CF258FAD2900630DEB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B687CE258FAD2900630DEB /* AppDelegate.swift */; };
 		45B687D1258FAD2900630DEB /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 45B687D0258FAD2900630DEB /* art.scnassets */; };
 		45B687D3258FAD2900630DEB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B687D2258FAD2900630DEB /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		4512966A26C965C90067453C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		4512966E26C9F8F60067453C /* screenshot1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = screenshot1.gif; sourceTree = "<group>"; };
 		45B687CB258FAD2900630DEB /* AR Sumikko.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AR Sumikko.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		45B687CE258FAD2900630DEB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		45B687D0258FAD2900630DEB /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -39,6 +41,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4512966D26C9F8F60067453C /* documentation */ = {
+			isa = PBXGroup;
+			children = (
+				4512966E26C9F8F60067453C /* screenshot1.gif */,
+			);
+			path = documentation;
+			sourceTree = SOURCE_ROOT;
+		};
 		45B687C2258FAD2900630DEB = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +68,7 @@
 		45B687CD258FAD2900630DEB /* AR Sumikko */ = {
 			isa = PBXGroup;
 			children = (
+				4512966D26C9F8F60067453C /* documentation */,
 				4512966A26C965C90067453C /* README.md */,
 				45B687CE258FAD2900630DEB /* AppDelegate.swift */,
 				45B687D0258FAD2900630DEB /* art.scnassets */,
@@ -128,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4512966F26C9F8F60067453C /* screenshot1.gif in Resources */,
 				45B687D1258FAD2900630DEB /* art.scnassets in Resources */,
 				45B687DB258FAD2F00630DEB /* LaunchScreen.storyboard in Resources */,
 				4512966B26C965CA0067453C /* README.md in Resources */,
